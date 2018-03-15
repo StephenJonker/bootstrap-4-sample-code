@@ -1,4 +1,4 @@
-# Bootstrap 4 sample code
+# Basic Bootstrap 4 with navbar 
 
 This is a basic sample of some Bootstrap 4 code, it features the following:
 
